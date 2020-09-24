@@ -1,0 +1,22 @@
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\bin\Release\Operator Test.exe
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\bin\Release\Operator Test.pdb
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.csprojResolveAssemblyReference.cache
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.csproj.ResolveComReference.cache
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator_Test.Form1.resources
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator_Test.Properties.Resources.resources
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.csproj.GenerateResource.cache
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.csproj.CoreCompileInputs.cache
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.exe
+C:\Users\mraga\OneDrive\Документы\Дипломная\Program\code\Operator Test\Operator Test\obj\Release\Operator Test.pdb
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\bin\Release\Operator Test.exe
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\bin\Release\Operator Test.pdb
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.csprojAssemblyReference.cache
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.csproj.ResolveComReference.cache
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator_Test.App.resources
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator_Test.Properties.Resources.resources
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.csproj.GenerateResource.cache
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.csproj.CoreCompileInputs.cache
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.exe
+C:\Users\agamy\Documents\Visual Studio 2019\OneDrive_2020-09-22\Operator Test\Operator Test\obj\Release\Operator Test.pdb
